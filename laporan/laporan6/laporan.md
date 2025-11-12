@@ -1,8 +1,8 @@
 # Laporan Modul 6: Model dan Laravel Eloquent
-**Mata Kuliah:** Workshop Web Lanjut   
-**Nama:** Ammar  
-**NIM:** 2024573010129  
-**Kelas:** TI2B  
+**Mata Kuliah:** Workshop Web Lanjut<br>
+**Nama:** Muhammad Dhiyaul Atha<br>
+**NIM:** 2024573010075<br>
+**Kelas:** TI 2B  
 
 ---
 
