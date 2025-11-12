@@ -1,3 +1,9 @@
+---
+title: "Laporan Praktikum Form Submission & Data Validation"
+author: "Muhammad Dhiyaul Atha"
+date: "9 November 2025"
+---
+
 # Laporan Modul 6: Model dan Laravel Eloquent
 **Mata Kuliah:** Workshop Web Lanjut<br>
 **Nama:** Muhammad Dhiyaul Atha<br>
@@ -243,11 +249,11 @@ Repository berfungsi sebagai lapisan abstraksi untuk mengelola logika akses data
 >Screenshot Hasil:
 - Form
 
-    ![Dok 1](gambar/11.png)
+    ![Dok 1](gambar/1.png)
 
 - Hasil submit
 
-    ![Dok 1](gambar/12.png)
+    ![Dok 1](gambar/2.png)
 
 ### 2.2 Praktikum 2 – Data Transfer Object (DTO)
 
@@ -413,11 +419,11 @@ Repository berfungsi sebagai lapisan abstraksi untuk mengelola logika akses data
 >Screenshot Hasil:
 - Form
 
-    ![Dok 1](gambar/21.png)
+    ![Dok 1](gambar/3.png)
 
 - Hasil submit
 
-    ![Dok 1](gambar/22.png)
+    ![Dok 1](gambar/4.png)
 
 ### 2.3 Praktikum 3 – Aplikasi Todo CRUD dengan Eloquent ORM dan MySQL
 
@@ -775,31 +781,31 @@ Repository berfungsi sebagai lapisan abstraksi untuk mengelola logika akses data
 >Screenshot Hasil:
 - Home
 
-    ![Dok 1](gambar/31.png)
+    ![Dok 1](gambar/5.png)
 
 - Add Tugas Form
 
-    ![Dok 1](gambar/32.png)
+    ![Dok 1](gambar/6.png)
 
     Hasil
 
-    ![Dok 1](gambar/33.png)
+    ![Dok 1](gambar/7.png)
 
 - Edit Tugas Form
 
-    ![Dok 1](gambar/34.png)
+    ![Dok 1](gambar/8.png)
 
     Hasil
 
-    ![Dok 1](gambar/35.png)
+    ![Dok 1](gambar/9.png)
 
 - Detail Tugas
 
-    ![Dok 1](gambar/36.png)
+    ![Dok 1](gambar/10.png)
 
 - Delete Tugas
 
-    ![Dok 1](gambar/37.png)
+    ![Dok 1](gambar/11.png)
 
 ---
 
@@ -832,7 +838,5 @@ Semua aplikasi berjalan sesuai harapan dan validasi input berfungsi dengan baik.
 ## 5. Referensi
 
 - Laravel Documentation – Eloquent ORM - https://laravel.com/docs/12.x/eloquent
-
-- Dicoding Blog – Apa Itu MVC? - https://www.dicoding.com/blog/apa-itu-mvc-pahami-konsepnya/
 
 - Modul 6 – Model dan Laravel Eloquent – https://hackmd.io/@mohdrzu/ryIIM1a0ll
