@@ -99,10 +99,15 @@ Praktikum ini membahas implementasi sistem autentikasi dan otorisasi menggunakan
     ![4](gambar/4.png)
 
     Kemudian, kita dapat mendaftarkan pengguna baru dengan mengklik tautan Register. Isi formulir pendaftaran dengan detail Anda dan klik Register. Ini akan membuat pengguna baru dalam database.
+    ![6](gambar/6.png)
+    cek apakah data masuk ke dalam database
+    ![9](gambar/9.png)
 
     Setelah mendaftar, Anda akan diarahkan ke halaman dashboard.
+    ![7](gambar/7.png)
 
     Coba logout dan login kembali menggunakan kredensial yang baru saja Anda daftarkan. Anda dapat melakukan ini dengan mengklik tautan Login di pojok kanan atas.
+    ![8](gambar/8.png)
 
 7. Membuat Rute Profil yang Dilindungi
     Buat rute baru /myprofile yang dilindungi oleh middleware auth. Ini berarti hanya pengguna yang terautentikasi yang dapat mengakses rute ini.
